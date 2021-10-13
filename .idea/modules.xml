@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/InterviewQuestionsAndAnswers/InterviewQuestionsAndAnswers.iml" filepath="$PROJECT_DIR$/InterviewQuestionsAndAnswers/InterviewQuestionsAndAnswers.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Interview.iml" filepath="$PROJECT_DIR$/.idea/Java_Interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReplitQuestions/ReplitQuestions.iml" filepath="$PROJECT_DIR$/ReplitQuestions/ReplitQuestions.iml" />
     </modules>
   </component>
 </project>

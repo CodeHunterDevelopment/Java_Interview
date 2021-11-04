@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9c9600e7-7880-4eed-97bf-fb0cd12e28f5" name="Changes" comment="Replit Questions initial commitv1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReplitQuestions/src/rq01_sedef/RQ_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReplitQuestions/src/rq01_sedef/RQ_01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,26 @@
       <recent name="D:\BACKUP 22.08.2021\yazilim\JAVA\Java_Interview\InterviewQuestionsAndAnswers\src\day06_hakan" />
       <recent name="D:\BACKUP 22.08.2021\yazilim\JAVA\Java_Interview\InterviewQuestionsAndAnswers\src\day05_mehmet" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RQ_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rq01_sedef.RQ_01" />
+      <module name="ReplitQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rq01_sedef.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RQ_01" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

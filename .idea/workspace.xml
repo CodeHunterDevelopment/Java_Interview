@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c9600e7-7880-4eed-97bf-fb0cd12e28f5" name="Changes" comment="v2" />
+    <list default="true" id="9c9600e7-7880-4eed-97bf-fb0cd12e28f5" name="Changes" comment="v2">
+      <change afterPath="$PROJECT_DIR$/ReplitQuestions/src/AddQ_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReplitQuestions/src/AddQ_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReplitQuestions/src/InterfaceTest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReplitQuestions/src/InterfaceTest/Musteri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReplitQuestions/src/InterfaceTest/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReplitQuestions/src/InterfaceTest/TestInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,7 +57,27 @@
       <recent name="D:\BACKUP 22.08.2021\yazilim\JAVA\Java_Interview\InterviewQuestionsAndAnswers\src\day05_mehmet" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="AddQ_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AddQ_01" />
+      <module name="ReplitQuestions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfaceTest.Main" />
+      <module name="ReplitQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterfaceTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RQ_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rq01_sedef.RQ_01" />
       <module name="ReplitQuestions" />
@@ -62,8 +91,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfaceTest.Test" />
+      <module name="ReplitQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterfaceTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.AddQ_01" />
         <item itemvalue="Application.RQ_01" />
       </list>
     </recent_temporary>

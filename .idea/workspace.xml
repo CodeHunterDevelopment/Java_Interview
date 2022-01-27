@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c9600e7-7880-4eed-97bf-fb0cd12e28f5" name="Changes" comment="v2">
-      <change afterPath="$PROJECT_DIR$/ReplitQuestions/src/AddQ_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplitQuestions/src/AddQ_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplitQuestions/src/InterfaceTest/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplitQuestions/src/InterfaceTest/Musteri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplitQuestions/src/InterfaceTest/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplitQuestions/src/InterfaceTest/TestInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9c9600e7-7880-4eed-97bf-fb0cd12e28f5" name="Changes" comment="v2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
